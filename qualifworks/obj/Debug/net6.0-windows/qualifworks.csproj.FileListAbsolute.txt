@@ -1,0 +1,15 @@
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\qualifworks.exe
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\qualifworks.deps.json
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\qualifworks.runtimeconfig.json
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\qualifworks.dll
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\ref\qualifworks.dll
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\qualifworks.pdb
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\qualifworks.csproj.AssemblyReference.cache
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\qualifworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\qualifworks.AssemblyInfoInputs.cache
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\qualifworks.AssemblyInfo.cs
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\qualifworks.csproj.CoreCompileInputs.cache
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\qualifworks.dll
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\ref\qualifworks.dll
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\qualifworks.pdb
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\qualifworks.genruntimeconfig.cache

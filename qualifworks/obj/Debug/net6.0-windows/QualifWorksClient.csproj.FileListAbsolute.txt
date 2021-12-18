@@ -1,0 +1,17 @@
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\QualifWorksClient.exe
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\QualifWorksClient.deps.json
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\QualifWorksClient.runtimeconfig.json
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\QualifWorksClient.dll
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\ref\QualifWorksClient.dll
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\bin\Debug\net6.0-windows\QualifWorksClient.pdb
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\QualifWorksClient.csproj.AssemblyReference.cache
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\qualifworks.frmQualifWorks.resources
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\QualifWorksClient.csproj.GenerateResource.cache
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\QualifWorksClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\QualifWorksClient.AssemblyInfoInputs.cache
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\QualifWorksClient.AssemblyInfo.cs
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\QualifWorksClient.csproj.CoreCompileInputs.cache
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\QualifWorksClient.dll
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\ref\QualifWorksClient.dll
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\QualifWorksClient.pdb
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\qualifworks\obj\Debug\net6.0-windows\QualifWorksClient.genruntimeconfig.cache

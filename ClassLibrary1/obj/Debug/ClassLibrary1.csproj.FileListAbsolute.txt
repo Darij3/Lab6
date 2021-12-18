@@ -1,0 +1,9 @@
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\QualificationWorks.mdf
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\QualificationWorks_log.ldf
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\darja.lipnagova\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
